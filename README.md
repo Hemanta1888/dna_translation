@@ -1,4 +1,4 @@
-# dna_translation
+# DNA_Translation
 
 # Translation Theory : DNA ⇒ RNA ⇒ Protein
 
